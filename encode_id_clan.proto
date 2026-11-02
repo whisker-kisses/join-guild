@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message MyData {
+  int32 field1 = 1;
+  int32 field2 = 2;
+}
